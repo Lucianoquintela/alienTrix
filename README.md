@@ -1,9 +1,10 @@
 # Lista de Aliens do Ben 10
 
 O app e uma lista com todos os relogios e aliens que apareceram nas series de Ben 10 incluindo o filmes.
-
-<img src="https://i.postimg.cc/BQkbTk5y/Capturadr.png" alt="Capturadr" width="270px" height="500px" align="center"/>
-<img src="https://i.postimg.cc/Vkt6DgDN/Capturar.png" alt="Capturar" width="270px" height="500px" align="center"/>
+<p align="center">
+<img src="https://i.postimg.cc/BQkbTk5y/Capturadr.png" alt="Capturadr" width="270px" height="500px"/>
+<img src="https://i.postimg.cc/Vkt6DgDN/Capturar.png" alt="Capturar" width="270px" height="500px"/>
+</p>
 
 - Tecnologias usadas: React Native
 - Todos os aliens adicionados
